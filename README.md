@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="SM Naim — Graduate Researcher, MS Computer Science, University of Yamanashi" width="100%">
+  <a href="https://sm-naim-portfolio.vercel.app"><img src="assets/banner.svg" alt="SM Naim — Graduate Researcher, MS Computer Science, University of Yamanashi" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://sm-naim-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-0f1729?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://sm-naim-portfolio.vercel.app"><img src="https://img.shields.io/badge/Visit%20my%20website-sm--naim--portfolio.vercel.app%20%E2%86%97-1f4fd1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1729" alt="Visit my website: sm-naim-portfolio.vercel.app" height="36"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sm-naim-982341251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=GQ3HgGEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0009-0009-7966-3037"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
@@ -70,15 +73,28 @@ BSc in Electronics & Communication Engineering from **Khulna University** · CGP
 
 ### 🏆 Achievements
 
-1. **2nd Place** · IEB Project Competition <sub>2026</sub>
-2. **3rd Runner-Up** · National Business Idea Competition, IADS, BAU <sub>2026</sub>
-3. **Meritorious Student Award** · Khulna University <sub>2025</sub>
-4. **Finalist** · GP FutureMakers, Bangladesh's biggest AI competition <sub>2025</sub>
-5. **Finalist** · Startup World Cup Bangladesh <sub>2025</sub>
-6. **1st Runner-Up** · IEEE Vitality Enhancement Summit <sub>2025</sub>
-7. **1st Runner-Up** · Bangladesh Startup Connect <sub>2025</sub>
-8. **Winner** · UIHP Pre-Seed Competition <sub>2024</sub>
-9. **Champion** · Innovation Showcasing, Khulna University <sub>2024</sub>
-10. **Finalist** · SynergyX DATATHON, national machine learning competition <sub>2024</sub>
+<table>
+  <tr>
+    <td width="120" valign="top"><sub>2026</sub></td>
+    <td><sub>1.</sub> <b>2nd Place</b> · IEB Project Competition<br>
+    <sub>2.</sub> <b>3rd Runner-Up</b> · National Business Idea Competition, IADS, BAU</td>
+  </tr>
+  <tr>
+    <td width="120" valign="top"><sub>2025</sub></td>
+    <td><sub>3.</sub> <b>Meritorious Student Award</b> · Khulna University<br>
+    <sub>4.</sub> <b>Finalist</b> · GP FutureMakers, Bangladesh's biggest AI competition<br>
+    <sub>5.</sub> <b>Finalist</b> · Startup World Cup Bangladesh<br>
+    <sub>6.</sub> <b>1st Runner-Up</b> · IEEE Vitality Enhancement Summit<br>
+    <sub>7.</sub> <b>1st Runner-Up</b> · Bangladesh Startup Connect</td>
+  </tr>
+  <tr>
+    <td width="120" valign="top"><sub>2024</sub></td>
+    <td><sub>8.</sub> <b>Winner</b> · UIHP Pre-Seed Competition<br>
+    <sub>9.</sub> <b>Champion</b> · Innovation Showcasing, Khulna University<br>
+    <sub>10.</sub> <b>Finalist</b> · SynergyX DATATHON, national machine learning competition</td>
+  </tr>
+</table>
 
-<p align="center"><sub>More on my website → <a href="https://sm-naim-portfolio.vercel.app">sm-naim-portfolio.vercel.app</a></sub></p>
+<p align="center">
+  <a href="https://sm-naim-portfolio.vercel.app"><img src="https://img.shields.io/badge/See%20photos%20%26%20full%20story%20on%20my%20website-%E2%86%97-1f4fd1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1729" alt="See photos and full story on my website"></a>
+</p>
