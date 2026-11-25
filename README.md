@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://sm-naim-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-0f1729?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/sm-naim-982341251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=GQ3HgGEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0009-0009-7966-3037"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
@@ -66,3 +67,30 @@ BSc in Electronics & Communication Engineering from **Khulna University** · CGP
     <td><b>BSc in Electronics & Communication Engineering</b> · Khulna University, Bangladesh<br><sub>CGPA 3.80 / 4.00 · Rank 2 · Best Student Award 2025</sub></td>
   </tr>
 </table>
+
+### 🏆 Achievements
+
+<table>
+  <tr>
+    <td width="120" valign="top"><sub>2026</sub></td>
+    <td><b>MEXT Scholarship</b> · Government of Japan<br>
+    <b>2nd Place</b> · IEB Project Competition</td>
+  </tr>
+  <tr>
+    <td width="120" valign="top"><sub>2025</sub></td>
+    <td><b>Best Student Award</b> · Khulna University<br>
+    <b>Top 10 / 786</b> · GP FutureMakers AI<br>
+    <b>Finalist (4,500+ teams)</b> · Startup World Cup Bangladesh<br>
+    <b>1st Runner-Up</b> · IEEE Vitality Enhancement Summit<br>
+    <b>1st Runner-Up</b> · Bangladesh Startup Connect</td>
+  </tr>
+  <tr>
+    <td width="120" valign="top"><sub>2024</sub></td>
+    <td><b>Winner</b> · UIHP Pre-Seed Competition<br>
+    <b>Champion</b> · Innovation Showcasing, Khulna University<br>
+    <b>3rd Runner-Up</b> · National Business Idea Competition, IADS, BAU<br>
+    <b>Finalist</b> · SynergyX / DATATHON</td>
+  </tr>
+</table>
+
+<p align="center"><sub>More on my website → <a href="https://sm-naim-portfolio.vercel.app">sm-naim-portfolio.vercel.app</a></sub></p>
