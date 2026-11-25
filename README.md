@@ -64,33 +64,21 @@ BSc in Electronics & Communication Engineering from **Khulna University** · CGP
   </tr>
   <tr>
     <td width="120" valign="top"><sub>2022 – 2026</sub></td>
-    <td><b>BSc in Electronics & Communication Engineering</b> · Khulna University, Bangladesh<br><sub>CGPA 3.80 / 4.00 · Rank 2 · Best Student Award 2025</sub></td>
+    <td><b>BSc in Electronics & Communication Engineering</b> · Khulna University, Bangladesh<br><sub>CGPA 3.80 / 4.00 · Rank 2 · Meritorious Student Award 2025</sub></td>
   </tr>
 </table>
 
 ### 🏆 Achievements
 
-<table>
-  <tr>
-    <td width="120" valign="top"><sub>2026</sub></td>
-    <td><b>MEXT Scholarship</b> · Government of Japan<br>
-    <b>2nd Place</b> · IEB Project Competition</td>
-  </tr>
-  <tr>
-    <td width="120" valign="top"><sub>2025</sub></td>
-    <td><b>Best Student Award</b> · Khulna University<br>
-    <b>Top 10 / 786</b> · GP FutureMakers AI<br>
-    <b>Finalist (4,500+ teams)</b> · Startup World Cup Bangladesh<br>
-    <b>1st Runner-Up</b> · IEEE Vitality Enhancement Summit<br>
-    <b>1st Runner-Up</b> · Bangladesh Startup Connect</td>
-  </tr>
-  <tr>
-    <td width="120" valign="top"><sub>2024</sub></td>
-    <td><b>Winner</b> · UIHP Pre-Seed Competition<br>
-    <b>Champion</b> · Innovation Showcasing, Khulna University<br>
-    <b>3rd Runner-Up</b> · National Business Idea Competition, IADS, BAU<br>
-    <b>Finalist</b> · SynergyX / DATATHON</td>
-  </tr>
-</table>
+1. **2nd Place** · IEB Project Competition <sub>2026</sub>
+2. **3rd Runner-Up** · National Business Idea Competition, IADS, BAU <sub>2026</sub>
+3. **Meritorious Student Award** · Khulna University <sub>2025</sub>
+4. **Finalist** · GP FutureMakers, Bangladesh's biggest AI competition <sub>2025</sub>
+5. **Finalist** · Startup World Cup Bangladesh <sub>2025</sub>
+6. **1st Runner-Up** · IEEE Vitality Enhancement Summit <sub>2025</sub>
+7. **1st Runner-Up** · Bangladesh Startup Connect <sub>2025</sub>
+8. **Winner** · UIHP Pre-Seed Competition <sub>2024</sub>
+9. **Champion** · Innovation Showcasing, Khulna University <sub>2024</sub>
+10. **Finalist** · SynergyX DATATHON, national machine learning competition <sub>2024</sub>
 
 <p align="center"><sub>More on my website → <a href="https://sm-naim-portfolio.vercel.app">sm-naim-portfolio.vercel.app</a></sub></p>
