@@ -44,7 +44,7 @@ BSc in Electronics & Communication Engineering from **Khulna University** · CGP
     <td width="120" valign="top"><b>Mendeley Data</b><br><sub>2025</sub></td>
     <td><b>KU-BD-Fish: High-Resolution White-Background and Segmented Images for Species Classification</b><br>
     <sub>940 images · 26 freshwater fish species of Bangladesh · CC BY 4.0</sub><br>
-    <sub><b>S. M. Naim</b>, M. A. Rahman, P. Das, A.-A. Nahid &nbsp;·&nbsp; <a href="https://data.mendeley.com/datasets/n9m5bywxwc/3">Dataset</a> · <a href="https://doi.org/10.17632/n9m5bywxwc.3">DOI</a></sub></td>
+    <sub><b>S. M. Naim</b>, M. A. Rahman, P. Das, A.-A. Nahid &nbsp;·&nbsp; <a href="https://data.mendeley.com/datasets/n9m5bywxwc/3">Dataset</a> · <a href="https://doi.org/10.17632/n9m5bywxwc.3">DOI</a> · <a href="https://github.com/EliteNaim/KU-BD-Fish">GitHub</a></sub></td>
   </tr>
 </table>
 
