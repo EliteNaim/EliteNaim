@@ -76,22 +76,22 @@ BSc in Electronics & Communication Engineering from **Khulna University** · CGP
 <table>
   <tr>
     <td width="120" valign="top"><sub>2026</sub></td>
-    <td><sub>1.</sub> <b>2nd Place</b> · IEB Project Competition<br>
-    <sub>2.</sub> <b>3rd Runner-Up</b> · National Business Idea Competition, IADS, BAU</td>
+    <td>1.&nbsp; <b>2nd Place</b> · IEB Project Competition<br>
+    2.&nbsp; <b>3rd Runner-Up</b> · National Business Idea Competition, IADS, BAU</td>
   </tr>
   <tr>
     <td width="120" valign="top"><sub>2025</sub></td>
-    <td><sub>3.</sub> <b>Meritorious Student Award</b> · Khulna University<br>
-    <sub>4.</sub> <b>Finalist</b> · GP FutureMakers, Bangladesh's biggest AI competition<br>
-    <sub>5.</sub> <b>Finalist</b> · Startup World Cup Bangladesh<br>
-    <sub>6.</sub> <b>1st Runner-Up</b> · IEEE Vitality Enhancement Summit<br>
-    <sub>7.</sub> <b>1st Runner-Up</b> · Bangladesh Startup Connect</td>
+    <td>3.&nbsp; <b>Meritorious Student Award</b> · Khulna University<br>
+    4.&nbsp; <b>Finalist</b> · GP FutureMakers, Bangladesh's biggest AI competition<br>
+    5.&nbsp; <b>Finalist</b> · Startup World Cup Bangladesh<br>
+    6.&nbsp; <b>1st Runner-Up</b> · IEEE Vitality Enhancement Summit<br>
+    7.&nbsp; <b>1st Runner-Up</b> · Bangladesh Startup Connect</td>
   </tr>
   <tr>
     <td width="120" valign="top"><sub>2024</sub></td>
-    <td><sub>8.</sub> <b>Winner</b> · UIHP Pre-Seed Competition<br>
-    <sub>9.</sub> <b>Champion</b> · Innovation Showcasing, Khulna University<br>
-    <sub>10.</sub> <b>Finalist</b> · SynergyX DATATHON, national machine learning competition</td>
+    <td>8.&nbsp; <b>Winner</b> · UIHP Pre-Seed Competition<br>
+    9.&nbsp; <b>Champion</b> · Innovation Showcasing, Khulna University<br>
+    10.&nbsp; <b>Finalist</b> · SynergyX DATATHON, national machine learning competition</td>
   </tr>
 </table>
 
